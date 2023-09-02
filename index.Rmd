@@ -1,0 +1,18 @@
+---
+title: "Wendy Xie"
+image: "headshot.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/wendy-yangyiran-xie-189418115"
+  - label: Twitter
+    url: "https://twitter.com/Wendyxieyang"
+  - label: GitHub
+    url: "https://github.com/WendyX/"
+  - label: Email
+    url: "wendyxieyang@gmail.com"
+output:
+  postcards::jolla
+---
+
+I am a Medical Student at Vanderbilt University School of Medicine and currently pursuing my masters in Health Informatics. I am interested in the field of ophthalmology and utilization of bioinformatic tools to solve problems in healthcare.
+
